@@ -1,4 +1,4 @@
-# Template React Native with React Navigation and native base already inst
+# Instagram Clone
 App to-do list 
 
 #To use this project run
